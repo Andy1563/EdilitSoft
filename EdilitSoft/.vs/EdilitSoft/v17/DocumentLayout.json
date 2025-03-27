@@ -1,18 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Progra\\EdilitSoft\\EdilitSoft\\",
+  "WorkspaceRootPath": "D:\\ProyectosVS\\PrograAvanzada\\Proyecto\\EdilitSoft\\EdilitSoft\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{232CD41F-E781-4716-8AF1-3330E1137017}|EdilitSoft.app\\EdilitSoft.app.csproj|c:\\progra\\edilitsoft\\edilitsoft\\edilitsoft.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{232CD41F-E781-4716-8AF1-3330E1137017}|EdilitSoft.app\\EdilitSoft.app.csproj|d:\\proyectosvs\\prograavanzada\\proyecto\\edilitsoft\\edilitsoft\\edilitsoft.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{232CD41F-E781-4716-8AF1-3330E1137017}|EdilitSoft.app\\EdilitSoft.app.csproj|solutionrelative:edilitsoft.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{232CD41F-E781-4716-8AF1-3330E1137017}|EdilitSoft.app\\EdilitSoft.app.csproj|c:\\progra\\edilitsoft\\edilitsoft\\edilitsoft.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{232CD41F-E781-4716-8AF1-3330E1137017}|EdilitSoft.app\\EdilitSoft.app.csproj|d:\\proyectosvs\\prograavanzada\\proyecto\\edilitsoft\\edilitsoft\\edilitsoft.app\\models\\catalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232CD41F-E781-4716-8AF1-3330E1137017}|EdilitSoft.app\\EdilitSoft.app.csproj|solutionrelative:edilitsoft.app\\models\\catalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232CD41F-E781-4716-8AF1-3330E1137017}|EdilitSoft.app\\EdilitSoft.app.csproj|d:\\proyectosvs\\prograavanzada\\proyecto\\edilitsoft\\edilitsoft\\edilitsoft.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{232CD41F-E781-4716-8AF1-3330E1137017}|EdilitSoft.app\\EdilitSoft.app.csproj|solutionrelative:edilitsoft.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{232CD41F-E781-4716-8AF1-3330E1137017}|EdilitSoft.app\\EdilitSoft.app.csproj|c:\\progra\\edilitsoft\\edilitsoft\\edilitsoft.app\\models\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{232CD41F-E781-4716-8AF1-3330E1137017}|EdilitSoft.app\\EdilitSoft.app.csproj|d:\\proyectosvs\\prograavanzada\\proyecto\\edilitsoft\\edilitsoft\\edilitsoft.app\\models\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232CD41F-E781-4716-8AF1-3330E1137017}|EdilitSoft.app\\EdilitSoft.app.csproj|solutionrelative:edilitsoft.app\\models\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232CD41F-E781-4716-8AF1-3330E1137017}|EdilitSoft.app\\EdilitSoft.app.csproj|d:\\proyectosvs\\prograavanzada\\proyecto\\edilitsoft\\edilitsoft\\edilitsoft.app\\models\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{232CD41F-E781-4716-8AF1-3330E1137017}|EdilitSoft.app\\EdilitSoft.app.csproj|solutionrelative:edilitsoft.app\\models\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232CD41F-E781-4716-8AF1-3330E1137017}|EdilitSoft.app\\EdilitSoft.app.csproj|d:\\proyectosvs\\prograavanzada\\proyecto\\edilitsoft\\edilitsoft\\edilitsoft.app\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232CD41F-E781-4716-8AF1-3330E1137017}|EdilitSoft.app\\EdilitSoft.app.csproj|solutionrelative:edilitsoft.app\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232CD41F-E781-4716-8AF1-3330E1137017}|EdilitSoft.app\\EdilitSoft.app.csproj|d:\\proyectosvs\\prograavanzada\\proyecto\\edilitsoft\\edilitsoft\\edilitsoft.app\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232CD41F-E781-4716-8AF1-3330E1137017}|EdilitSoft.app\\EdilitSoft.app.csproj|solutionrelative:edilitsoft.app\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,9 +37,13 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 214,
-          "SelectedChildIndex": 4,
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -42,40 +62,100 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\ProyectosVS\\PrograAvanzada\\Proyecto\\EdilitSoft\\EdilitSoft\\EdilitSoft.app\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "EdilitSoft.app\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\ProyectosVS\\PrograAvanzada\\Proyecto\\EdilitSoft\\EdilitSoft\\EdilitSoft.app\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "EdilitSoft.app\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAgwA8BAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T21:18:09.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\ProyectosVS\\PrograAvanzada\\Proyecto\\EdilitSoft\\EdilitSoft\\EdilitSoft.app\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EdilitSoft.app\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\ProyectosVS\\PrograAvanzada\\Proyecto\\EdilitSoft\\EdilitSoft\\EdilitSoft.app\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EdilitSoft.app\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T21:17:22.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Progra\\EdilitSoft\\EdilitSoft\\EdilitSoft.app\\Program.cs",
+              "DocumentMoniker": "D:\\ProyectosVS\\PrograAvanzada\\Proyecto\\EdilitSoft\\EdilitSoft\\EdilitSoft.app\\Program.cs",
               "RelativeDocumentMoniker": "EdilitSoft.app\\Program.cs",
-              "ToolTip": "C:\\Progra\\EdilitSoft\\EdilitSoft\\EdilitSoft.app\\Program.cs",
+              "ToolTip": "D:\\ProyectosVS\\PrograAvanzada\\Proyecto\\EdilitSoft\\EdilitSoft\\EdilitSoft.app\\Program.cs",
               "RelativeToolTip": "EdilitSoft.app\\Program.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEcAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T20:20:11.008Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Progra\\EdilitSoft\\EdilitSoft\\EdilitSoft.app\\appsettings.json",
-              "RelativeDocumentMoniker": "EdilitSoft.app\\appsettings.json",
-              "ToolTip": "C:\\Progra\\EdilitSoft\\EdilitSoft\\EdilitSoft.app\\appsettings.json",
-              "RelativeToolTip": "EdilitSoft.app\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-11T19:53:46.279Z"
+              "DocumentIndex": 4,
+              "Title": "Contexto.cs",
+              "DocumentMoniker": "D:\\ProyectosVS\\PrograAvanzada\\Proyecto\\EdilitSoft\\EdilitSoft\\EdilitSoft.app\\Models\\Contexto.cs",
+              "RelativeDocumentMoniker": "EdilitSoft.app\\Models\\Contexto.cs",
+              "ToolTip": "D:\\ProyectosVS\\PrograAvanzada\\Proyecto\\EdilitSoft\\EdilitSoft\\EdilitSoft.app\\Models\\Contexto.cs",
+              "RelativeToolTip": "EdilitSoft.app\\Models\\Contexto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:33:23.916Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Contexto.cs",
-              "DocumentMoniker": "C:\\Progra\\EdilitSoft\\EdilitSoft\\EdilitSoft.app\\Models\\Contexto.cs",
-              "RelativeDocumentMoniker": "EdilitSoft.app\\Models\\Contexto.cs",
-              "ToolTip": "C:\\Progra\\EdilitSoft\\EdilitSoft\\EdilitSoft.app\\Models\\Contexto.cs",
-              "RelativeToolTip": "EdilitSoft.app\\Models\\Contexto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ProyectosVS\\PrograAvanzada\\Proyecto\\EdilitSoft\\EdilitSoft\\EdilitSoft.app\\appsettings.json",
+              "RelativeDocumentMoniker": "EdilitSoft.app\\appsettings.json",
+              "ToolTip": "D:\\ProyectosVS\\PrograAvanzada\\Proyecto\\EdilitSoft\\EdilitSoft\\EdilitSoft.app\\appsettings.json",
+              "RelativeToolTip": "EdilitSoft.app\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAADiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T21:58:39.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "D:\\ProyectosVS\\PrograAvanzada\\Proyecto\\EdilitSoft\\EdilitSoft\\EdilitSoft.app\\Models\\Inventario.cs",
+              "RelativeDocumentMoniker": "EdilitSoft.app\\Models\\Inventario.cs",
+              "ToolTip": "D:\\ProyectosVS\\PrograAvanzada\\Proyecto\\EdilitSoft\\EdilitSoft\\EdilitSoft.app\\Models\\Inventario.cs",
+              "RelativeToolTip": "EdilitSoft.app\\Models\\Inventario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T19:33:23.916Z"
+              "WhenOpened": "2025-03-26T23:43:14.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Catalogo.cs",
+              "DocumentMoniker": "D:\\ProyectosVS\\PrograAvanzada\\Proyecto\\EdilitSoft\\EdilitSoft\\EdilitSoft.app\\Models\\Catalogo.cs",
+              "RelativeDocumentMoniker": "EdilitSoft.app\\Models\\Catalogo.cs",
+              "ToolTip": "D:\\ProyectosVS\\PrograAvanzada\\Proyecto\\EdilitSoft\\EdilitSoft\\EdilitSoft.app\\Models\\Catalogo.cs",
+              "RelativeToolTip": "EdilitSoft.app\\Models\\Catalogo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:46:08.199Z",
+              "EditorCaption": ""
             }
           ]
         }
